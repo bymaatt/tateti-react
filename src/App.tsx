@@ -117,7 +117,7 @@ function App() {
     )}
     <section className='boton'>
     <button onClick={handleReset}>
-      Reset
+      Volver a comenzar
     </button>
     </section>
     </main>
